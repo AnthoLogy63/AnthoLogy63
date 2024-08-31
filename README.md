@@ -11,3 +11,5 @@ Soy un desarrollador entusiasta y estudiante de Ingeniería de Sistemas. Me apas
 ![Angular Badge](https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
+![Unity Badge](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-262626?logo=obsidian&logoColor=white&style=for-the-badge)
