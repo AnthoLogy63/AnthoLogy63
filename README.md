@@ -1,5 +1,5 @@
 # Hola, soy Anthony 👨‍💻 👋 
-![img-banner](https://github.com/user-attachments/assets/e398ea37-b064-4e6a-a55d-405dc77d8dbd)
+![banner-img](https://github.com/user-attachments/assets/c314bed6-c3be-4122-814c-0e3f982ea30d)
 Soy un desarrollador entusiasta y estudiante de Ingeniería de Sistemas. Me apasiona la programación y siempre estoy buscando aprender nuevas habilidades y planteando nuevos retos. Aquí encontrarás información sobre mis trabajos, habilidades y logros. No dudes en contactar conmigo si tienes alguna pregunta o si quieres colaborar en algún proyecto.
 
 ## Tecnologias ⌨️💻
